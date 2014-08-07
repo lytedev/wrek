@@ -1,0 +1,1445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"margint-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tk",
+				"tkc	tk-complete"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"daily",
+				"sum_daily_hours"
+			],
+			[
+				"arr",
+				"arrival"
+			],
+			[
+				"depart",
+				"departure"
+			],
+			[
+				"proges",
+				"Progress"
+			],
+			[
+				"time",
+				"time_fmt"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"test",
+				"test_set"
+			],
+			[
+				"allowed",
+				"allowed_rewards"
+			],
+			[
+				"create",
+				"createAdminUser"
+			],
+			[
+				"link",
+				"_linkify_field"
+			],
+			[
+				"_linkif",
+				"_linkify_planting_and_timing"
+			],
+			[
+				"_link",
+				"_linkify_water_requirements"
+			],
+			[
+				"_linki",
+				"_linkify_light_requirements"
+			],
+			[
+				"_merge",
+				"_merge_rooting_out"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"settings ",
+				"Preferences: Settings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"togstat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tog sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togmini",
+				"View: Toggle Minimap"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"togsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togtabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"togsb",
+				"View: Toggle Status Bar"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"tk",
+				"Timekeeper: New Timekeeper File"
+			],
+			[
+				"calc",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"newtk",
+				"Timekeeper: New Timekeeper File"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"timekee",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"timeke",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"caldiff",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"calcdiff",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"open fi",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"new time",
+				"Timekeeper: New Timekeeper File"
+			],
+			[
+				"open files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ntkf",
+				"Timekeeper: New Timekeeper File"
+			],
+			[
+				"tlcd",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"openreou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"opens",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tkcd",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"tkc",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"calcd",
+				"Timekeeper: Calculate Differences"
+			],
+			[
+				"openreso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ntk",
+				"Timekeeper: New Timekeeper File"
+			],
+			[
+				"timek",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"syntax",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"synt",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Timekeeper"
+			],
+			[
+				"packresv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prvopen",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"remove packg",
+				"Package Control: Remove Package"
+			],
+			[
+				"package upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"tt",
+				"View: Toggle Tabs"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prefere def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"word wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synta hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"tsb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"tog tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"togmm",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tmm",
+				"View: Toggle Minimap"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefe",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"tstb",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ttab",
+				"View: Toggle Tabs"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pref def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settings use",
+				"Preferences: Settings - User"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: No Column Only Marks Gutter"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"synt pup",
+				"Set Syntax: Puppet"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			]
+		],
+		"width": 413.0
+	},
+	"console":
+	{
+		"height": 339.0,
+		"history":
+		[
+			"x",
+			"x = x - 8.5",
+			"x",
+			"x = x - 14",
+			"x",
+			"x = x - 14",
+			"x ",
+			"x - 14",
+			"x",
+			"x = x - 9.25",
+			"x = 60 - 7.5",
+			"60 - 7.5",
+			"2400 - 900",
+			"2400 - 0900",
+			"x / 5",
+			"x / 4",
+			"x",
+			"x = 60 - 7.5",
+			"60 / 5",
+			"60 / 12",
+			"60 / 5",
+			"12 / 60",
+			"60 /12",
+			"view.run_command('calculate_timekeeper_selection_total')",
+			"view.run_command('calculate_timekeeper_differences')",
+			"view.run_command('calculate_timekeeper_selection_total')",
+			"view.run_command('calculate_timekeeper_differences')",
+			"view.substr(view.line(0))",
+			"substr(view.line(0))",
+			"view.line(0)",
+			"view.is_dirty()",
+			"view.set_scratch(False)",
+			"view.is_dirty()",
+			"view.set_scratch(True)",
+			"view.is_scratch()",
+			"view.is_scratch",
+			"view.is_dirty()",
+			"view.dirty",
+			"view",
+			"view.run_command('example')",
+			"self.view",
+			"view.run_command('example')",
+			"view.run_command",
+			"view.run",
+			"view.command",
+			"view.runCommand",
+			"view:runCommand",
+			"view.runCommand",
+			"view",
+			"view.runCommand('example')",
+			"view.run_command('lytedev')",
+			"view.run_command('unlytedev')",
+			"view.run_command('lytedev')",
+			"view.run_command('unlytedev')",
+			"view.run_command('lytedev')",
+			"view.run_command('unlytedev')",
+			"view.run_command('lytedev')",
+			"view.run_command('unlytedev')",
+			"view.run_command('lytedev')",
+			"view.run_command('example')",
+			"view.run_command('example`)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/README.md",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/composer.json",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/README.md",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/wrek.sublime-project",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/tests/test.php",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/src/Site.php",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/sass/_reset.sass",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/sass/main.sass",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/css/main.css",
+		"/C/Users/Daniel/Google Drive/projects/web/newlytedev_2/footer.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Public/Applications/xampp/htdocs/rising/wp-content/themes/rising3/style.css",
+		"/C/Users/Public/Applications/xampp/htdocs/rising/wp-content/themes/rising3/single.php",
+		"/C/Users/Public/Applications/xampp/htdocs/rising/wp-content/themes/rising3/sass/bootstrap/_glyphicons.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/rising/wp-content/themes/rising3/index.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/style.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/header.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/style.css",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/plugins/newsletter/header-extension.php",
+		"/C/Users/dflanagan/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/.gitignore",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sftp-config.json",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/plugins/google-analytics-dashboard-for-wp/tools/src/io/Google_IO.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/js/gallery.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/bootstrap/_variables.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/functions.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/page-blog.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/single.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/bartleby/functions.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-includes/js/tinymce/utils/form_utils.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/footer.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_bootstrap.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/js/bootstrap.min.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-includes/bookmark.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/network/site-new.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/network/site-info.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/page.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/plugins/newsletter/subscription/page-alternative.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/dev/rising3.sublime-project",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/index.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/archive.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/404.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_fontawesome.scss",
+		"/C/Users/Public/Applications/xampp/apache/logs/error.log",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_bootstrap-compass.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/basetheme/js/bootstrap.min.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/bartleby/archive.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/bartleby/page.php",
+		"/C/Users/dflanagan/Downloads/fa/css/font-awesome.css",
+		"/C/Users/DFLANA~1/AppData/Local/Temp/7zE276.tmp/font-awesome.css",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_main.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/bootstrap/bootstrap.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/network/site-themes.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_bootstrap-mincer.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_bootstrap-sprockets.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/navigation.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/css/edit-rtl.css",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/edit.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/theme-install.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-includes/theme.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/themes.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/theme-editor.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/index.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/newp/js/keyboard-image-navigation.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-includes/class-wp-theme.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_boilerplate.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/sass/_normalize.scss",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/newp/no-results.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/network.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/rising3/js/main.js",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/ms-admin.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/media.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-admin/setup-config.php",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-content/themes/bartleby/index.php",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/status.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/2014-06-30.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/hemp_status.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/hemp_phase_6_status.txt",
+		"/C/Users/Public/Applications/xampp/htdocs/risingumkc/http/wp-config.php",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/example.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/archive/2014/06 June/2014-06-02.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/dev/todo.sublime-project",
+		"/C/Users/dflanagan/_vimrc",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/2014-06-25.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/2014-06-24.tk",
+		"/C/Users/Public/Applications/xampp/htdocs/mssql/index.php",
+		"/C/Users/Public/Applications/xampp/htdocs/mssql/helpers.php",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-23.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/dev/personal-todo.sublime-project",
+		"/C/Users/Public/Applications/xampp/htdocs/assets/css/normalize.css",
+		"/C/Users/dflanagan/Google Drive/Church/The Rising/Communication/WeeklyAnnouncementsEmailTemplate.html",
+		"/C/Users/dflanagan/Documents/repositories/404_redirects",
+		"/C/Users/dflanagan/Documents/repositories/db_dump_notes.txt",
+		"/C/Users/dflanagan/Documents/repositories/pygv.sublime-workspace",
+		"/C/Users/dflanagan/Documents/repositories/new_filename",
+		"/C/Users/dflanagan/Documents/repositories/redirect-batch-adder.php",
+		"/C/Users/dflanagan/Documents/repositories/reload_hemp_files.bat",
+		"/C/Users/dflanagan/Documents/repositories/notes.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-24.tk",
+		"/C/Users/Public/Applications/xampp/htdocs/assets/css/main.css",
+		"/C/Users/Public/Applications/xampp/htdocs/index.php",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/status.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-05.tk",
+		"/C/Users/dflanagan/Google Drive/projects/python/csv/test.csv",
+		"/C/Users/dflanagan/Google Drive/projects/python/csv/main.py",
+		"/C/Users/dflanagan/Downloads/AssetsImportCompleteSample.csv",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-04.tk",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/example.tk",
+		"/C/Users/dflanagan/AppData/Roaming/Sublime Text 3/Packages/Lyte/theme_builder.py",
+		"/C/Users/dflanagan/AppData/Roaming/Sublime Text 3/Packages/Devastate/Devastate/wrap@2x.png",
+		"/C/Users/dflanagan/.ssh/ssh_config",
+		"/C/Users/dflanagan/AppData/Roaming/Sublime Text 3/Packages/Default/delete_word.py",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-03.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-06-02.txt",
+		"/C/Users/Public/Applications/Sublime/Packages/Timekeeper/timekeeper.py",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/archive/2014-04-08-todo-work.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/archive/2014/05 May/2014-05-29.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/archive/2014/05 May/2014-05-28.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/archive/2014/05 May/2014-05-20.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/archive/2014/05 May/2014-05-01.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-27.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-28.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-29.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-30.txt",
+		"/C/Users/dflanagan/Documents/repositories/gvc/voice.py",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-26.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-23.txt",
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-22.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.tags*",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.tags",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.js,-*.tags*",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.js,-*.tags",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.js-*.tags",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.js-.tags",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.js",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw,-*.css",
+			"C:\\Users\\dflanagan\\Documents\\repositories\\pw"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#content",
+			"false",
+			"single",
+			"64",
+			"screen-xs-min",
+			"1em",
+			"get_post_class",
+			"2x",
+			"32",
+			"%s Archives",
+			"Archives",
+			"<?php ",
+			"Cheatin' uh?",
+			"cheatin' uh?",
+			"333",
+			"../fonts/fontawesome",
+			"fontawesome",
+			"div",
+			"link-color",
+			"body",
+			"b",
+			"registration_id",
+			"1700",
+			"clear",
+			"2s",
+			"a .site",
+			"log",
+			"login",
+			"Lance Glise",
+			"rj",
+			"dev",
+			"town\n",
+			"big",
+			"bigtown",
+			"h1",
+			"{",
+			"{{ ",
+			"{{",
+			"V",
+			"\nVirtual",
+			"Virtual",
+			"0300",
+			"sublime",
+			"sel",
+			"python",
+			"HEMP",
+			"Wednesday",
+			"14",
+			"1:53 PM",
+			"Chelsea Allen: ",
+			"29",
+			"	",
+			"/httpdocs",
+			"console",
+			"61",
+			"30",
+			"70",
+			"34",
+			"30",
+			"50",
+			"34",
+			"30",
+			"28",
+			"34",
+			"75",
+			"50",
+			"28",
+			"50",
+			"28",
+			"fold",
+			"8",
+			"\"font.size\": 16,",
+			"16",
+			"ProggyCleanTT",
+			"22",
+			"font.size",
+			"font.face\": ",
+			"Droid Sans Mono",
+			"font.face",
+			"rnr_se",
+			"kelsie",
+			"]]>",
+			"<![CDATA[",
+			"\\n",
+			"\\'",
+			"\\n",
+			"style",
+			"\\n",
+			"&",
+			"\n\"",
+			"10",
+			"Emfluence",
+			"Part internet",
+			"- ",
+			"<?=",
+			"</p>",
+			"<p>",
+			" </p>",
+			"\n	",
+			"<p>",
+			"markup",
+			"222",
+			"<p>",
+			"/strong",
+			"<strong",
+			"this",
+			"scheduled",
+			" ToDoItem('",
+			"array(new ToDoItem",
+			"new ToDoItem",
+			"description",
+			"TimeItem",
+			"empty($opts",
+			"empty($this",
+			"format",
+			"GLOBALS",
+			"$",
+			"$stamp_format",
+			"arrival_fmt",
+			"Today",
+			"$",
+			"opts['items']['",
+			"this->",
+			"_fmt",
+			"empty($this->",
+			"empty($this->date_fmt",
+			"this->items",
+			"items"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Consolas",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 25.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wrek.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"sass\\main.sass"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"style",
+				"sass\\style.scss"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"style.css",
+				"Theme\\style.css"
+			],
+			[
+				"styscss",
+				"Theme\\sass\\style.scss"
+			],
+			[
+				"gitign",
+				"Project Root\\.gitignore"
+			],
+			[
+				"functions",
+				"Theme\\functions.php"
+			],
+			[
+				"_varia",
+				"Theme\\sass\\bootstrap\\_variables.scss"
+			],
+			[
+				"singl",
+				"Theme\\single.php"
+			],
+			[
+				"page.p",
+				"Theme\\page.php"
+			],
+			[
+				"page",
+				"Theme\\page-blog.php"
+			],
+			[
+				"pageblog",
+				"Theme\\page-blog.php"
+			],
+			[
+				"footer",
+				"Theme\\footer.php"
+			],
+			[
+				"themeindex",
+				"Theme\\index.php"
+			],
+			[
+				"index",
+				"Project Root\\index.php"
+			],
+			[
+				"normal",
+				"Theme\\sass\\_normalize.scss"
+			],
+			[
+				"boiler",
+				"Theme\\sass\\_boilerplate.scss"
+			],
+			[
+				"main.scss",
+				"Theme\\sass\\_main.scss"
+			],
+			[
+				"scss",
+				"Theme\\sass\\style.scss"
+			],
+			[
+				"stat",
+				"status.txt"
+			],
+			[
+				"sta",
+				"status.txt"
+			],
+			[
+				"statu",
+				"todos\\status.txt"
+			],
+			[
+				"",
+				"archive\\2014-04-08-todo-work.txt"
+			],
+			[
+				"529",
+				"todos\\archive\\2014\\05 May\\2014-05-29.txt"
+			],
+			[
+				"528",
+				"todos\\archive\\2014\\05 May\\2014-05-28.txt"
+			],
+			[
+				"0529",
+				"todos\\archive\\2014\\05 May\\2014-05-29.txt"
+			],
+			[
+				"521",
+				"todos\\2014-05-21.txt"
+			],
+			[
+				"520",
+				"todos\\2014-05-20.txt"
+			],
+			[
+				"515",
+				"todos\\2014-05-15.txt"
+			],
+			[
+				"516",
+				"todos\\2014-05-16.txt"
+			],
+			[
+				"st",
+				"todos\\status.txt"
+			],
+			[
+				"56",
+				"todos\\archive\\2014-05\\2014-05-06.txt"
+			],
+			[
+				"58",
+				"todos\\archive\\2014-05\\2014-05-08.txt"
+			],
+			[
+				"11",
+				"todos\\2014-04-11-todo-work.txt"
+			],
+			[
+				"201408",
+				"2014-04-08-todo-work.txt"
+			],
+			[
+				"0407",
+				"2014-04-07-todo-work.txt"
+			],
+			[
+				"07",
+				"2014-04-07-todo-work.txt"
+			],
+			[
+				"header",
+				"assets\\markup\\header.php"
+			],
+			[
+				"foote",
+				"assets\\markup\\footer.php"
+			],
+			[
+				"scratch",
+				"Proven Winners Module\\scratch.inc"
+			],
+			[
+				"introvotinstall",
+				"Plant Module\\introduction_voting\\introduction_voting.install.inc"
+			],
+			[
+				"plantgroup",
+				"Plant Module\\introduction_voting\\plant_group.class.inc"
+			],
+			[
+				"scrat",
+				"Proven Winners Module\\scratch.inc"
+			],
+			[
+				"proven_winners",
+				"Proven Winners Module\\proven_winners.install"
+			],
+			[
+				"introdu",
+				"Plant Module\\introduction_voting\\introduction_voting.install.inc"
+			],
+			[
+				"certifica",
+				"Proven Winners Module\\certification\\certification.pages.inc"
+			],
+			[
+				"settings",
+				"Project Root\\sites\\default\\settings.php"
+			],
+			[
+				"vagra",
+				"Project Root\\Vagrantfile"
+			],
+			[
+				"retailtpl",
+				"Project Root\\sites\\all\\themes\\provenwinners\\node-retailer.tpl.php"
+			],
+			[
+				"retailertpl",
+				"Project Root\\sites\\all\\themes\\provenwinners_mobile\\node-retailer.tpl.php"
+			],
+			[
+				"retail",
+				"Proven Winners Module\\retailer\\retailer.views.inc"
+			],
+			[
+				"certifi",
+				"Proven Winners Module\\certification\\certification.pages.inc"
+			],
+			[
+				"retailer",
+				"All Modules\\proven_winners\\retailer\\retailer.inc"
+			],
+			[
+				"reta",
+				"Proven Winners Module\\retailer\\retailer.pages.inc"
+			],
+			[
+				"intro",
+				"Plant Module\\introduction_voting\\introduction_voting.module.inc"
+			],
+			[
+				"scra",
+				"Proven Winners Module\\scratch_public.inc"
+			],
+			[
+				"proven",
+				"Proven Winners Module\\proven_winners.inc"
+			],
+			[
+				"certi",
+				"Proven Winners Module\\certification\\certification.inc"
+			],
+			[
+				"krumocss",
+				"Project Root\\sites\\all\\modules\\devel\\krumo\\skins\\orange\\skin.css"
+			],
+			[
+				"krumo",
+				"All Modules\\devel\\krumo\\krumo.ini"
+			],
+			[
+				"php",
+				"All Modules\\phone\\tests\\phone-pa.test"
+			],
+			[
+				"plant",
+				"Plant Module\\plant.module"
+			],
+			[
+				"form.inc",
+				"Project Root\\includes\\form.inc"
+			],
+			[
+				"certpgeclas",
+				"Proven Winners Module\\certification\\certification.pages.class.inc"
+			],
+			[
+				"cert",
+				"Proven Winners Module\\certification\\certification.install"
+			],
+			[
+				"certic",
+				"Proven Winners Module\\certification\\certification.config.inc"
+			],
+			[
+				"certific",
+				"Proven Winners Module\\certification\\certification.inc"
+			],
+			[
+				"medianav",
+				"Project Root\\sites\\all\\themes\\provenwinners\\css\\media-nav.css"
+			],
+			[
+				"settings.",
+				"Project Root\\sites\\default\\settings.php"
+			],
+			[
+				"plant.test",
+				"Plant Module\\plant.test"
+			],
+			[
+				"durpalweb",
+				"All Modules\\simpletest\\drupal_web_test_case.php"
+			],
+			[
+				"provenmodu",
+				"Proven Winners Module\\proven_winners.module"
+			],
+			[
+				"weather_zone",
+				"Proven Winners Module\\theme\\weather_zone.tpl.php"
+			],
+			[
+				"plant-iden",
+				"Project Root\\sites\\all\\themes\\provenwinners\\css\\plant-identity.css"
+			],
+			[
+				"provenmodule",
+				"Proven Winners Module\\proven_winners.module"
+			],
+			[
+				"cultureclass",
+				"Plant Module\\plant_culture\\plant_culture_view_builder.class.inc"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"common",
+				"includes\\common.inc"
+			],
+			[
+				"commo",
+				"includes\\common.inc"
+			],
+			[
+				"instarej",
+				"install.php.rej"
+			],
+			[
+				"install.rej",
+				"install.php.rej"
+			],
+			[
+				"patch",
+				"sites\\all\\modules\\simpletest\\D6-core-simpletest.patch"
+			],
+			[
+				"incboot",
+				"includes\\bootstrap.inc"
+			],
+			[
+				"install",
+				"install.php"
+			],
+			[
+				"plantculture.c",
+				"sites\\all\\modules\\proven_winners\\plant\\plant_culture\\plant_culture.inc"
+			],
+			[
+				"container_rol",
+				"sites\\all\\modules\\proven_winners\\plant\\container_role\\container_role.inc"
+			],
+			[
+				"index.p",
+				"index.php"
+			],
+			[
+				"plantintro",
+				"sites\\all\\modules\\proven_winners\\plant\\introduction_voting\\introduction_voting.install.inc"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"plant.mod",
+				"sites\\all\\modules\\proven_winners\\plant\\plant.module"
+			],
+			[
+				"intropages",
+				"sites\\all\\modules\\proven_winners\\plant\\introduction_voting\\introduction_voting.pages.inc"
+			],
+			[
+				"settings.php",
+				"sites\\default\\settings.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"lo",
+				"C:\\Users\\Daniel\\Documents\\projects\\love2d-bootstrap\\love2d-bootstrap.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\dflanagan\\Documents\\repositories\\hemp\\hemp.sublime-project"
+			],
+			[
+				"hack",
+				"C:\\Users\\Public\\Applications\\xampp\\htdocs\\hackathon\\dev\\hackathon.sublime-project"
+			],
+			[
+				"lyte",
+				"C:\\Users\\dflanagan\\AppData\\Roaming\\Sublime Text 3\\Packages\\Lyte\\dev\\Lyte.sublime-project"
+			],
+			[
+				"persona",
+				"C:\\Users\\dflanagan\\Google Drive\\Personal\\todo\\dev\\personal-todo.sublime-project"
+			],
+			[
+				"emfl",
+				"C:\\Users\\dflanagan\\Documents\\repositories\\emfluence.sublime-project"
+			],
+			[
+				"prov",
+				"C:\\Users\\dflanagan\\Documents\\repositories\\pw\\provenwinners.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 398.0,
+		"selected_items":
+		[
+			[
+				"get_temp",
+				"get_template_directory"
+			],
+			[
+				"intro",
+				"intro-group"
+			],
+			[
+				"introvot",
+				"plant_introduction_voting_menu"
+			],
+			[
+				"introvotem",
+				"plant_introduction_voting_menu"
+			],
+			[
+				"allowed",
+				"in_progress_form_part_allowed_rewards"
+			],
+			[
+				"allowed_rewa",
+				"in_progress_form_part_allowed_rewards"
+			],
+			[
+				"allowed_rewar",
+				"in_progress_form_part_allowed_rewards"
+			],
+			[
+				"retailmenu",
+				"retailer_menu"
+			],
+			[
+				"retail menu",
+				"retailer_menu"
+			],
+			[
+				"test_set",
+				"Certification_Test_Set"
+			],
+			[
+				"curlE",
+				"curlExec"
+			],
+			[
+				"drupal get",
+				"drupalGet"
+			],
+			[
+				"dupost",
+				"drupalPost"
+			],
+			[
+				"createUse",
+				"drupalCreateUser"
+			],
+			[
+				"pass",
+				"pass"
+			],
+			[
+				"curlEc",
+				"curlExec"
+			],
+			[
+				"drupalget",
+				"drupalGet"
+			],
+			[
+				"drupal",
+				"drupalPost"
+			],
+			[
+				"user_au",
+				"user_authenticate"
+			],
+			[
+				"drupalcreateuser",
+				"drupalCreateUser"
+			],
+			[
+				"drupalpost",
+				"drupalPost"
+			],
+			[
+				"drupalpo",
+				"drupalPost"
+			],
+			[
+				"drupal createuser",
+				"drupalCreateUser"
+			],
+			[
+				"Drupa",
+				"drupalLogin"
+			],
+			[
+				"drupalLogin",
+				"drupalLogin"
+			],
+			[
+				"drupalCreateUser",
+				"drupalCreateUser"
+			],
+			[
+				"PWplanview",
+				"PW_Plant_Culture_Viewer"
+			],
+			[
+				"PW_Plant_",
+				"PW_Plant_Culture_Viewer"
+			],
+			[
+				"content_fields",
+				"content_fields"
+			],
+			[
+				"node_build_",
+				"node_build_content"
+			],
+			[
+				"",
+				"; Drush Make (http:"
+			]
+		],
+		"width": 487.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
