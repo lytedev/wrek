@@ -1,0 +1,17 @@
+{
+	// The Sublime project for your site's development. 
+	
+	"folders":
+	[
+		{
+			"name": "Project Root", 
+			"follow_symlinks": true,
+			"path": "../"
+		},
+		{
+			"name": "Public", 
+			"follow_symlinks": true,
+			"path": "../public"
+		},
+	]
+}

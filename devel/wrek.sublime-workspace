@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"getSite",
+				"getSiteFile"
+			],
+			[
 				"backgro",
 				"background-color"
 			],
@@ -91,9 +95,29 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 398.0,
+		"height": 210.0,
 		"selected_items":
 		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
 			[
 				"sass",
 				"Set Syntax: Sass"
@@ -109,10 +133,6 @@
 			[
 				"settings ",
 				"Preferences: Settings - User"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"upload",
@@ -291,10 +311,6 @@
 				"View: Toggle Tabs"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"open res",
 				"PackageResourceViewer: Open Resource"
 			],
@@ -403,10 +419,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"pref def",
 				"Preferences: Settings - Default"
 			],
@@ -447,7 +459,7 @@
 				"View: Toggle Status Bar"
 			]
 		],
-		"width": 413.0
+		"width": 423.0
 	},
 	"console":
 	{
@@ -529,11 +541,16 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/src/Wrek/Site.php",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/.gitignore",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/README.md",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/tests/index.php",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/site.sublime-project",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/wrek.sublime-project",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/CONTRIBUTING.md",
+		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/tests/test.php",
 		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/README.md",
 		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/composer.json",
-		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/README.md",
-		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/devel/wrek.sublime-project",
-		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/tests/test.php",
 		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/wrek/src/Site.php",
 		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/sass/_reset.sass",
 		"/C/Users/Public/Applications/xampp/htdocs/newlytedev/sass/main.sass",
@@ -651,12 +668,7 @@
 		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/archive/2014/05 May/2014-05-01.txt",
 		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-27.txt",
 		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-28.txt",
-		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-29.txt",
-		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-30.txt",
-		"/C/Users/dflanagan/Documents/repositories/gvc/voice.py",
-		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-26.txt",
-		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-23.txt",
-		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-22.txt"
+		"/C/Users/dflanagan/Google Drive/Personal/todo/todos/2014-05-29.txt"
 	],
 	"find":
 	{
@@ -685,6 +697,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"src",
+			"sr",
+			"string",
+			"siteroot",
+			"private",
+			"{",
 			"#content",
 			"false",
 			"single",
@@ -806,13 +824,7 @@
 			"arrival_fmt",
 			"Today",
 			"$",
-			"opts['items']['",
-			"this->",
-			"_fmt",
-			"empty($this->",
-			"empty($this->date_fmt",
-			"this->items",
-			"items"
+			"opts['items']['"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -872,6 +884,10 @@
 	{
 		"height": 0.0
 	},
+	"output.package_dev":
+	{
+		"height": 128.0
+	},
 	"project": "wrek.sublime-project",
 	"replace":
 	{
@@ -883,6 +899,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"read",
+				"Project Root\\README.md"
+			],
+			[
+				"test",
+				"Project Root\\tests\\test.php"
+			],
 			[
 				"sass",
 				"sass\\main.sass"
@@ -1268,12 +1292,12 @@
 		"selected_items":
 		[
 			[
-				"lo",
-				"C:\\Users\\Daniel\\Documents\\projects\\love2d-bootstrap\\love2d-bootstrap.sublime-project"
+				"",
+				"C:\\Users\\Public\\Applications\\xampp\\htdocs\\newlytedev\\dev\\newlytedev.sublime-project"
 			],
 			[
-				"",
-				"C:\\Users\\dflanagan\\Documents\\repositories\\hemp\\hemp.sublime-project"
+				"lo",
+				"C:\\Users\\Daniel\\Documents\\projects\\love2d-bootstrap\\love2d-bootstrap.sublime-project"
 			],
 			[
 				"hack",
