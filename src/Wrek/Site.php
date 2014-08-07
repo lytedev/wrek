@@ -24,6 +24,8 @@ class Site
      */
     protected $_title = "Wrek Site";
 
+    protected $_routes = array();
+
     /**
      * The site's constructor.
      *
@@ -43,8 +45,15 @@ class Site
             }
         }
 
-        if (empty($this->root)) {
+        if (empty($this->_root)) {
             $this->_root = dirname($_SERVER['SCRIPT_NAME']);
+        }
+
+        if (empty($this->_routes)) {
+            $this->_routes = array(
+                '404' => 'pages/404',
+                'front' => 'pages/front',
+            );
         }
     }
 
@@ -55,7 +64,7 @@ class Site
      */
     public function query()
     {
-        return $this->getQuery($key);
+        return $this->getQuery();
     }
 
     /**
@@ -68,12 +77,21 @@ class Site
     }
 
     /**
-     * Returns the site's title.
+     * Returns the site's title. See getTitle().
      * @return string The site's title.
      */
     public function title()
     {
         return $this->getTitle();
+    }
+
+    /**
+     * Returns the site's routes. See getRoutes().
+     * @return array The site's routes.
+     */
+    public function routes()
+    {
+        return $this->getRoutes();
     }
 
     /**
@@ -93,8 +111,9 @@ class Site
      * @param  array $routes The routes array.
      * @return string The file to require for the route.
      */
-    public function getRouteFile(&$routes) {
+    public function getRouteFile() {
         $route = '';
+        $routes = $this->routes();
 
         // Get the query
         $q = $this->query();
@@ -123,9 +142,9 @@ class Site
      * @return mixed Returns the Wrek query string or false if none given.
      */
     public function getQuery() {
-        if (isset($_GET[$key])) {
-            if (!empty($_GET[$key])) {
-                $q = $_GET[$key];
+        if (isset($_GET['q'])) {
+            if (!empty($_GET['q'])) {
+                $q = $_GET['q'];
                 $root = $this->root();
                 if (substr($q, 0, strlen($root))) {
                     $q = substr($q, strlen($root));
@@ -155,11 +174,20 @@ class Site
     }
 
     /**
+     * Returns the site's routes.
+     *
+     * @return array The site's routes.
+     */
+    public function getRoutes() {
+        return $this->_routes;
+    }
+
+    /**
      * Set the site's title.
      *
      * @param string $title The new site title.
      */
-    public function setTitle($title = "")
+    public function setTitle($title)
     {
         $this->_title = $title;
     }
@@ -169,9 +197,19 @@ class Site
      *
      * @param string $root The site's new relative root.
      */
-    public function setRoot($root = "")
+    public function setRoot($root)
     {
         $this->_root = $root;
+    }
+
+    /**
+     * Set the site's routes.
+     *
+     * @param array $routes The site's new routes array.
+     */
+    public function setRoutes($routes)
+    {
+        $this->_routes = $routes;
     }
 }
 
