@@ -6,7 +6,6 @@ A ridiculously simple CMS for the simplest of almost-static websites.
 
 Obviously, you will need [Composer][1] before you get rolling.
 
-    $ git clone https://github.com/lytedev/wrek.git yoursite
-    $ composer install
+    $ composer -sdev create-project lytedev/wrek your-project-name --prefer-dist
 
 [1]: https://getcomposer.org/
